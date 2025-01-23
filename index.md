@@ -14,3 +14,6 @@ var myVar = "Hello, world!";
 ```
 
 this is the activity:edit your file with headers
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
